@@ -1,0 +1,28 @@
+{ "blog": [
+        {
+            "id": 1,
+            "tag": "Gestão Financeira",
+            "titulo": "Como organizar o fluxo de caixa da sua empresa",
+            "subtitulo": "Descubra as melhores práticas para manter a saúde financeira do seu negócio em dia e evitar surpresas no fim do mês.",
+            "img": "/img/blog-fluxo-caixa.jpg",
+            "data": "27 de Março de 2026"
+        },
+        {
+            "id": 2,
+            "tag": "Impostos",
+            "titulo": "Entendendo o Simples Nacional",
+            "subtitulo": "Um guia completo sobre as alíquotas, vantagens e como saber se esse é o melhor regime tributário para você.",
+            "img": "/img/blog-impostos.jpg",
+            "data": "15 de Março de 2026"
+        },
+        {
+            "id": 3,
+            "tag": "Empreendedorismo",
+            "titulo": "Passo a passo para abrir seu CNPJ",
+            "subtitulo": "Tudo o que você precisa saber antes de formalizar a sua empresa e começar a atuar no mercado.",
+            "img": "/img/blog-cnpj.jpg",
+            "data": "02 de Março de 2026"
+        }
+    ]
+
+}
