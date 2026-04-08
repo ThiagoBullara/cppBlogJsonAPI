@@ -1,6 +1,7 @@
 { "noticias": [
         {
             "id": 1,
+            "capa": "blogImg1",
             "tag": "Imposto de Renda",
             "titulo": "Imposto de Renda de 2026",
             "subtitulo": "Fique atualizado com o Imposto de Renda de 2026",
@@ -9,7 +10,8 @@
             "link": "/blog/1"
         },
         {
-            "id": 1,
+            "id": 2,
+            "capa": "blogImg2",
             "tag": "Abono Salarial",
             "titulo": "Novo Abono Salarial de 2026",
             "subtitulo": "Fique atualizado com as novas regras do Abono Salarial",
