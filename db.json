@@ -1,20 +1,18 @@
 { "noticias": [
         {
             "id": 1,
-            "capa": "blogImg1",
             "tag": "Imposto de Renda",
             "titulo": "Imposto de Renda de 2026",
-            "subtitulo": "Fique atualizado com o Imposto de Renda de 2026",
+            "subtitulo": "Fique atualizado com o Imposto de Renda de 2026.",
             "data": "20 de Março de 2026",
             "data-json:": "2026-03-20",
             "link": "/blog/1"
         },
         {
             "id": 2,
-            "capa": "blogImg2",
             "tag": "Abono Salarial",
             "titulo": "Novo Abono Salarial de 2026",
-            "subtitulo": "Fique atualizado com as novas regras do Abono Salarial",
+            "subtitulo": "Fique atualizado com as novas regras do Abono Salarial.",
             "data": "08 de Abril de 2026",
             "data-json:": "2026-04-08",
             "link": "/blog/2"
